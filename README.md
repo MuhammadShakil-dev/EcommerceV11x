@@ -13,7 +13,7 @@
 - Database <br><br>
 
 
-## About EcommerceV11x, Frontend
+##  EcommerceV11x
 - Useful Links: <br>
     Home <br>
     About Us <br>
@@ -60,8 +60,7 @@
 
 
 
-## EcommerceV11x, Backend
-- Backend <br>
+
 
 - Payment Method <br>
   1: cash  <br>
