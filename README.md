@@ -7,26 +7,83 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## EcommerceV11x
+## About EcommerceV11x
+- Frontend <br>
+- Backend <br>
+- Database <br><br>
 
-Payment Method, 
-Email verification, 
-Notification, 
-Search etc 
+
+## About EcommerceV11x, Frontend
+- Useful Links: <br><br>
+    Home <br>
+    About Us <br>
+    FAQ <br>
+    Contact us <br>
+    Blog <br>
+    Login | Register <br><br><br>
+
+- Customer Service <br>
+   Payment Methods <br>
+   Money-back guarantee! <br>
+   Returns <br>
+   Shipping <br>
+   Terms and conditions <br>
+   Privacy Policy <br><br><br>
+
+- Home Page: <br><br>
+   Trendy Products <br>
+   Shop by Categories <br>
+   Recent Arrivals <br>
+   Our Blog <br><br>
+
+- Blog <br>
+  Blog Categories<br>
+  Blog Posts <br>
+  Blog Comments <br>
+  Blog Search <br><br><br>
+
+
+- Product Shop<br><br>
+   Shopping Cart <br>
+   Add to cart <br>
+   View cart Details <br>
+   Add to wishlist <br>
+   Remove from wishlist <br><br>
+
+
+- Checkout <br><br>
+    Billing Details <br>
+    Payment Methods <br>
+    Cash on delivery <br>
+    Credit Card (Stripe) <br>
+    PayPal <br><br>
+
+
+
+## EcommerceV11x, Backend
+- Backend <br>
+
+- Payment Method <br>
+  1: cash  <br>
+  2: paypal <br>
+  3: stripe <br><br><br>
+
+- Others<br><br>
+  -> Auth <br> 
+  -> CustomAuth <br>
+  -> AdminMiddleware <br>
+  -> UserMiddleware <br>
+  -> Search <br>
+  -> Email verification <br>
+  -> Notification <br>
+  ->etc <br> <br><br><br>
 
 ## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects.
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
+
 
 
 
@@ -35,14 +92,4 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 Thank you for considering contributing to the Laravel framework! 
 
-## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-<!-- ## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
