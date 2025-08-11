@@ -68,7 +68,7 @@
   2: paypal <br>
   3: stripe <br><br><br>
 
-- Others<br><br>
+- Others<br>
   -> Auth <br> 
   -> CustomAuth <br>
   -> AdminMiddleware <br>
