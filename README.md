@@ -14,13 +14,13 @@
 
 
 ## About EcommerceV11x, Frontend
-- Useful Links: <br><br>
+- Useful Links: <br>
     Home <br>
     About Us <br>
     FAQ <br>
     Contact us <br>
     Blog <br>
-    Login | Register <br><br><br>
+    Login | Register <br><br>
 
 - Customer Service <br>
    Payment Methods <br>
@@ -28,9 +28,9 @@
    Returns <br>
    Shipping <br>
    Terms and conditions <br>
-   Privacy Policy <br><br><br>
+   Privacy Policy <br><br>
 
-- Home Page: <br><br>
+- Home Page: <br>
    Trendy Products <br>
    Shop by Categories <br>
    Recent Arrivals <br>
@@ -43,7 +43,7 @@
   Blog Search <br><br><br>
 
 
-- Product Shop<br><br>
+- Product Shop<br>
    Shopping Cart <br>
    Add to cart <br>
    View cart Details <br>
@@ -51,7 +51,7 @@
    Remove from wishlist <br><br>
 
 
-- Checkout <br><br>
+- Checkout <br>
     Billing Details <br>
     Payment Methods <br>
     Cash on delivery <br>
